@@ -1,3 +1,3 @@
 # varasto0
 
-asioita mitä ostaa
+koodia ja nettiostoksia
